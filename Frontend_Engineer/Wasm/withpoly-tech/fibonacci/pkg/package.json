@@ -1,0 +1,14 @@
+{
+  "name": "fibonacci",
+  "collaborators": [
+    "victor"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "fibonacci_bg.wasm",
+    "fibonacci.js",
+    "fibonacci.d.ts"
+  ],
+  "main": "fibonacci.js",
+  "types": "fibonacci.d.ts"
+}
